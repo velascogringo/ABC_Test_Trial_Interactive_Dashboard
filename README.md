@@ -16,7 +16,7 @@ This repository contains the source code for a Clinical Trial Data Monitoring Da
 ## Introduction
 The Clinical Trial Data Monitoring Dashboard is designed to help clinical research associates (CRAs), data managers, and trial coordinators gain insights into trial data integrity, completeness, and quality. The dashboard enables efficient tracking of data cleaning status, case report form (CRF) completion, query management, and serious adverse event (SAE) reconciliation to ensure compliance with regulatory requirements.
 
-📌 Note: This dashboard is based on synthetic or anonymized clinical trial data and is intended for demonstration and educational purposes only.
+📌 DISCLAIMER: THIS DASHBOARD IS BASED ON SYNTHETIC OR ANONYMIZED CLINICAL TRIAL DATA AND IS INTENDED FOR DEMONSTRATION AND EDUCATIONAL PURPOSES ONLY.
 
 ## Features
 -Patient Tracking & Enrollment Status:
