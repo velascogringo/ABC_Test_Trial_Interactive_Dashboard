@@ -1,5 +1,4 @@
 # ABC Test Trial Interactive Dashboard (Streamlit App Deployment)
-![Streamlit Logo](https://www.streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)
 
 ## Table of Contents
 
@@ -13,10 +12,11 @@
 ## About
 This repository contains the source code for a Clinical Trial Data Monitoring Dashboard built with Streamlit. The application provides an interactive, real-time overview of clinical trial performance metrics, allowing users to track patient progress, data discrepancies, and query resolution efficiency across multiple trial sites.
 
+📌 DISCLAIMER: The data used in this dashboard is manually generated or anonymized and does not represent actual clinical trial data. This dashboard was created                  solely for educational and demonstration purposes.
+
 ## Introduction
 The Clinical Trial Data Monitoring Dashboard is designed to help clinical research associates (CRAs), data managers, and trial coordinators gain insights into trial data integrity, completeness, and quality. The dashboard enables efficient tracking of data cleaning status, case report form (CRF) completion, query management, and serious adverse event (SAE) reconciliation to ensure compliance with regulatory requirements.
 
-📌 DISCLAIMER: THIS DASHBOARD IS BASED ON SYNTHETIC OR ANONYMIZED CLINICAL TRIAL DATA AND IS INTENDED FOR DEMONSTRATION AND EDUCATIONAL PURPOSES ONLY.
 
 ## Features
 -Patient Tracking & Enrollment Status:
