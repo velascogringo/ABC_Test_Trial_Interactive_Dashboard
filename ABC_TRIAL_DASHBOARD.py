@@ -120,6 +120,15 @@ def main():
         st.sidebar.title("Navigation")
         section = st.sidebar.radio("", ["Trial Participants", "Query Management", "Safety & SAE", "Data Entry / CRF Status", "Performance Metrics"])
 
+        # Spacer to push the button to the bottom
+        st.sidebar.markdown("<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>", unsafe_allow_html=True)
+
+        # Manual Refresh Button at the bottom
+        if st.sidebar.button("Refresh Data"):
+            st.cache_data.clear()
+            st.rerun()
+
+
 
 #######################################################################
 # Trial Participants Section
