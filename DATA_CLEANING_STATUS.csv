@@ -1,51 +1,51 @@
-﻿Site_Number,Institution,Region,Country,Subject ID Number,Subject_Current_Status,Active/Inactive,Original Informed Consent Date,Screening Date,Enrollment_Date,Treatment Discontinuation Date,OPEN QUERY,MISSING CRF,SAE ISSUE,TPV RECONCILIATION ISSUE,SOURCE DATA VERIFICATION (SDV) COMPLETED?,PI SIGNATURE COMPLETE?,LOCKED?,READY FOR LOCK?
-131,Site 131,North America,Mexico,1311131,On Treatment,Active,2-Jun-24,11-Jun-24,18-Jun-23,,1,0,0,1,0,0,0,0
-132,Site 132,South America,Brazil,1321132,On Treatment,Active,27-Dec-21,24-Jan-22,9-Feb-22,,1,0,0,1,0,0,0,0
-168,Site 168,Europe,United Kingdom,1681168,In Screening,Active,23-Sep-22,6-Oct-22,4-Nov-22,,1,0,0,0,0,0,0,0
-183,Site 183,Europe,France,1831183,In Follow Up,Active,25-Nov-22,24-Dec-22,7-Jan-23,,1,0,1,0,0,0,0,0
-195,Site 195,Europe,Spain,1951195,In Screening,Active,3-Oct-23,23-Oct-23,24-Oct-23,,1,0,0,1,0,0,0,0
-237,Site 237,Europe,Netherlands,2371237,In Follow Up,Active,29-May-24,28-Jun-24,13-Jul-23,,1,0,1,0,0,0,0,0
-241,Site 241,Europe,Sweden,2411241,In Follow Up,Active,16-Apr-23,12-May-23,19-May-23,,1,0,0,1,1,0,0,0
-256,Site 256,Europe,Switzerland,2561256,In Screening,Active,10-May-22,29-May-22,30-May-22,,1,0,0,0,1,1,0,0
-267,Site 267,Asia,Japan,2671267,In Follow Up,Active,23-Dec-23,24-Dec-23,2-Jan-23,,1,1,1,0,0,0,0,0
-285,Site 285,Asia,India,2851285,In Screening,Active,12-Oct-24,16-Oct-24,27-Oct-23,,1,0,0,0,1,0,0,0
-293,Site 293,Asia,Singapore,2931293,In Screening,Active,17-May-20,21-May-20,16-Jun-20,,1,0,1,0,0,0,0,0
-298,Site 298,Asia,Saudi Arabia,2981298,In Follow Up,Active,7-Sep-23,9-Sep-23,8-Oct-23,,1,0,0,0,0,0,0,0
-300,Site 301,Asia,United Arab Emirates,3011301,In Screening,Active,4-Mar-21,13-Mar-21,27-Mar-21,,1,0,0,0,0,0,0,0
-301,Site 301,Asia,Israel,3011301,In Screening,Active,13-Jan-21,26-Jan-21,18-Feb-21,,1,0,0,0,0,0,0,0
-306,Site 306,Asia,Turkey,3061306,In Screening,Active,12-Apr-21,23-Apr-21,13-May-21,,1,1,0,0,0,0,0,0
-347,Site 347,Africa,Ethiopia,3471347,In Follow Up,Active,4-Feb-22,8-Feb-22,21-Feb-22,,1,1,0,0,0,0,0,0
-357,Site 357,Oceania,Australia,3571357,In Screening,Active,23-May-24,30-May-24,15-Jun-23,,0,0,0,0,0,0,0,1
-374,Site 374,Africa,Ghana ,3741374,In Follow Up,Active,23-Jun-24,12-Jul-24,3-Aug-23,,1,0,0,0,0,0,0,0
-391,Site 391,Central America,Costa Rica,3911391,On Treatment,Active,23-Aug-21,5-Sep-21,2-Oct-21,,1,1,0,0,0,0,0,0
-452,Site 452,Europe,Ukraine,4521452,In Follow Up,Active,11-Jul-22,10-Aug-22,15-Aug-22,,0,1,0,0,0,0,0,0
-460,Site 460,Europe,Hungary,4601460,In Follow Up,Active,25-Sep-21,2-Oct-21,10-Oct-21,,0,1,0,0,0,0,0,0
-469,Site 469,Asia,Kazakhstan,4691469,In Follow Up,Active,24-Jun-20,16-Jul-20,19-Jul-20,,0,0,0,0,0,0,0,1
-488,Site 488,Asia,Bangladesh,4881488,On Treatment,Active,6-Nov-20,22-Nov-20,10-Dec-20,,0,0,0,0,0,0,0,1
-492,Site 492,Asia,Pakistan,4921492,In Screening,Active,1-Jan-24,14-Jan-24,16-Jan-23,,0,0,0,0,0,0,0,1
-107,Site 107,North America,United States,1071107,Off Study,Inactive,10-Mar-21,8-Apr-21,27-Apr-21,25-May-21,0,0,0,0,0,0,0,1
-124,Site 124,North America,Canada,1241124,Off Study,Inactive,1-Nov-24,9-Nov-24,2-Dec-23,4-Dec-23,0,0,0,0,0,0,0,1
-154,Site 154,South America,Argentina,1541154,Screen Failed,Inactive,5-Nov-20,27-Nov-20,3-Dec-20,15-Dec-20,0,0,0,0,0,0,0,1
-156,Site 156,South America,Chile,1561156,Off Study,Inactive,6-Apr-20,29-Apr-20,6-May-20,7-May-20,0,0,0,0,0,0,0,1
-158,Site 158,South America,Colombia,1581158,Off Study,Inactive,21-Sep-24,27-Sep-24,3-Oct-23,5-Oct-23,0,0,0,0,0,0,0,1
-178,Site 178,Europe,Germany,1781178,Off Study,Inactive,25-Jan-20,24-Feb-20,19-Mar-20,20-Mar-20,1,1,0,1,1,0,0,0
-231,Site 231,Europe,Italy,2311231,Off Study,Inactive,18-Mar-21,3-Apr-21,11-Apr-21,19-Apr-21,0,0,1,0,1,0,0,0
-255,Site 255,Europe,Norway,2551255,Screen Failed,Inactive,12-Sep-20,3-Oct-20,17-Oct-20,15-Nov-20,0,0,0,0,0,0,0,1
-262,Site 262,Asia,China,2621262,Screen Failed,Inactive,10-Mar-20,16-Mar-20,17-Mar-20,28-Mar-20,0,0,0,0,0,0,1,0
-280,Site 280,Asia,South Korea,2801280,Screen Failed,Inactive,31-Mar-23,27-Apr-23,10-May-23,9-Jun-23,0,0,0,0,0,0,1,0
-294,Site 294,Asia,Malaysia,2941294,Off Study,Inactive,24-Jun-23,26-Jun-23,20-Jul-23,6-Aug-23,0,0,0,0,0,0,1,0
-295,Site 295,Asia,Thailand,2951295,Screen Failed,Inactive,27-Jan-20,30-Jan-20,28-Feb-20,22-Mar-20,0,0,0,0,0,0,1,0
-297,Site 298,Asia,Vietnam,2981298,Screen Failed,Inactive,28-Jul-21,24-Aug-21,4-Sep-21,14-Sep-21,0,0,0,0,0,0,1,0
-322,Site 322,Africa,South Africa,3221322,Screen Failed,Inactive,22-Feb-20,1-Mar-20,24-Mar-20,22-Apr-20,0,0,0,0,0,0,1,0
-323,Site 323,Africa,Egypt,3231323,Off Study,Inactive,16-Jun-23,16-Jul-23,9-Aug-23,1-Sep-23,1,0,0,0,0,0,0,0
-334,Site 334,Africa,Nigeria,3341334,Off Study,Inactive,15-Feb-20,5-Mar-20,20-Mar-20,18-Apr-20,1,0,0,0,1,0,0,0
-344,Site 344,Africa,Kenya,3441344,Screen Failed,Inactive,7-Sep-21,19-Sep-21,13-Oct-21,4-Nov-21,0,0,0,0,0,0,1,0
-366,Site 366,Oceania,New Zealand,3661366,Off Study,Inactive,22-May-20,30-May-20,24-Jun-20,7-Jul-20,0,0,0,0,0,0,1,0
-381,Site 381,Africa,Morroco,3811381,Off Study,Inactive,16-Mar-20,27-Mar-20,18-Apr-20,29-Apr-20,1,0,0,1,1,0,0,0
-388,Site 388,Africa,Tanzania,3881388,Off Study,Inactive,11-Apr-22,5-May-22,26-May-22,10-Jun-22,1,0,0,1,0,0,0,0
-404,Site 404,Central America,Panama,4041404,Off Study,Inactive,5-Jul-22,11-Jul-22,28-Jul-22,5-Aug-22,0,0,1,1,1,0,0,0
-429,Site 429,Central America,Guatemala,4291429,Screen Failed,Inactive,7-Dec-22,5-Jan-23,10-Jan-23,26-Jan-23,0,0,0,0,0,0,1,0
-445,Site 445,Europe,Russia,4451445,Screen Failed,Inactive,16-Oct-21,3-Nov-21,9-Nov-21,4-Dec-21,0,0,0,0,0,0,1,0
-447,Site 447,Europe,Poland,4471447,Off Study,Inactive,31-Aug-20,28-Sep-20,10-Oct-20,7-Nov-20,0,1,1,0,0,0,0,0
-479,Site 479,Asia,Uzbekistan,4791479,Screen Failed,Inactive,24-Jan-22,29-Jan-22,21-Feb-22,3-Mar-22,0,0,0,0,0,1,0,0
-496,Site 496,Asia,Philippines,4961496,Screen Failed,Inactive,2-Feb-21,14-Feb-21,3-Mar-21,26-Mar-21,0,0,0,0,0,1,0,0
+﻿Site_Number,Institution,Region,Country,Subject ID Number,Subject_Current_Status,Active/Inactive,Enrollment_Date,Treatment Discontinuation Date,OPEN QUERY,MISSING CRF,SAE ISSUE,TPV RECONCILIATION ISSUE,SOURCE DATA VERIFICATION (SDV) COMPLETED?,PI SIGNATURE COMPLETE?,LOCKED?,READY FOR LOCK?
+131,Site 131,North America,Mexico,1311131,On Treatment,Active,18-Jun-23,,1,0,0,1,0,0,0,0
+132,Site 132,South America,Brazil,1321132,On Treatment,Active,9-Feb-22,,1,0,0,1,0,0,0,0
+168,Site 168,Europe,United Kingdom,1681168,In Screening,Active,4-Nov-22,,1,0,0,0,0,0,0,0
+183,Site 183,Europe,France,1831183,In Follow Up,Active,7-Jan-23,,1,0,1,0,0,0,0,0
+195,Site 195,Europe,Spain,1951195,In Screening,Active,24-Oct-23,,1,0,0,1,0,0,0,0
+237,Site 237,Europe,Netherlands,2371237,In Follow Up,Active,13-Jul-23,,1,0,1,0,0,0,0,0
+241,Site 241,Europe,Sweden,2411241,In Follow Up,Active,19-May-23,,1,0,0,1,1,0,0,0
+256,Site 256,Europe,Switzerland,2561256,In Screening,Active,30-May-22,,1,0,0,0,1,1,0,0
+267,Site 267,Asia,Japan,2671267,In Follow Up,Active,2-Jan-23,,1,1,1,0,0,0,0,0
+285,Site 285,Asia,India,2851285,In Screening,Active,27-Oct-23,,1,0,0,0,1,0,0,0
+293,Site 293,Asia,Singapore,2931293,In Screening,Active,16-Jun-20,,1,0,1,0,0,0,0,0
+298,Site 298,Asia,Saudi Arabia,2981298,In Follow Up,Active,8-Oct-23,,1,0,0,0,0,0,0,0
+300,Site 301,Asia,United Arab Emirates,3011301,In Screening,Active,27-Mar-21,,1,0,0,0,0,0,0,0
+301,Site 301,Asia,Israel,3011301,In Screening,Active,18-Feb-21,,1,0,0,0,0,0,0,0
+306,Site 306,Asia,Turkey,3061306,In Screening,Active,13-May-21,,1,1,0,0,0,0,0,0
+347,Site 347,Africa,Ethiopia,3471347,In Follow Up,Active,21-Feb-22,,1,1,0,0,0,0,0,0
+357,Site 357,Oceania,Australia,3571357,In Screening,Active,15-Jun-23,,0,0,0,0,0,0,0,1
+374,Site 374,Africa,Ghana ,3741374,In Follow Up,Active,3-Aug-23,,1,0,0,0,0,0,0,0
+391,Site 391,Central America,Costa Rica,3911391,On Treatment,Active,2-Oct-21,,1,1,0,0,0,0,0,0
+452,Site 452,Europe,Ukraine,4521452,In Follow Up,Active,15-Aug-22,,0,1,0,0,0,0,0,0
+460,Site 460,Europe,Hungary,4601460,In Follow Up,Active,10-Oct-21,,0,1,0,0,0,0,0,0
+469,Site 469,Asia,Kazakhstan,4691469,In Follow Up,Active,19-Jul-20,,0,0,0,0,0,0,0,1
+488,Site 488,Asia,Bangladesh,4881488,On Treatment,Active,10-Dec-20,,0,0,0,0,0,0,0,1
+492,Site 492,Asia,Pakistan,4921492,In Screening,Active,16-Jan-23,,0,0,0,0,0,0,0,1
+107,Site 107,North America,United States,1071107,Off Study,Inactive,27-Apr-21,25-May-21,0,0,0,0,0,0,0,1
+124,Site 124,North America,Canada,1241124,Off Study,Inactive,2-Dec-23,4-Dec-23,0,0,0,0,0,0,0,1
+154,Site 154,South America,Argentina,1541154,Screen Failed,Inactive,3-Dec-20,15-Dec-20,0,0,0,0,0,0,0,1
+156,Site 156,South America,Chile,1561156,Off Study,Inactive,6-May-20,7-May-20,0,0,0,0,0,0,0,1
+158,Site 158,South America,Colombia,1581158,Off Study,Inactive,3-Oct-23,5-Oct-23,0,0,0,0,0,0,0,1
+178,Site 178,Europe,Germany,1781178,Off Study,Inactive,19-Mar-20,20-Mar-20,1,1,0,1,1,0,0,0
+231,Site 231,Europe,Italy,2311231,Off Study,Inactive,11-Apr-21,19-Apr-21,0,0,1,0,1,0,0,0
+255,Site 255,Europe,Norway,2551255,Screen Failed,Inactive,17-Oct-20,15-Nov-20,0,0,0,0,0,0,0,1
+262,Site 262,Asia,China,2621262,Screen Failed,Inactive,17-Mar-20,28-Mar-20,0,0,0,0,0,0,1,0
+280,Site 280,Asia,South Korea,2801280,Screen Failed,Inactive,10-May-23,9-Jun-23,0,0,0,0,0,0,1,0
+294,Site 294,Asia,Malaysia,2941294,Off Study,Inactive,20-Jul-23,6-Aug-23,0,0,0,0,0,0,1,0
+295,Site 295,Asia,Thailand,2951295,Screen Failed,Inactive,28-Feb-20,22-Mar-20,0,0,0,0,0,0,1,0
+297,Site 298,Asia,Vietnam,2981298,Screen Failed,Inactive,4-Sep-21,14-Sep-21,0,0,0,0,0,0,1,0
+322,Site 322,Africa,South Africa,3221322,Screen Failed,Inactive,24-Mar-20,22-Apr-20,0,0,0,0,0,0,1,0
+323,Site 323,Africa,Egypt,3231323,Off Study,Inactive,9-Aug-23,1-Sep-23,1,0,0,0,0,0,0,0
+334,Site 334,Africa,Nigeria,3341334,Off Study,Inactive,20-Mar-20,18-Apr-20,1,0,0,0,1,0,0,0
+344,Site 344,Africa,Kenya,3441344,Screen Failed,Inactive,13-Oct-21,4-Nov-21,0,0,0,0,0,0,1,0
+366,Site 366,Oceania,New Zealand,3661366,Off Study,Inactive,24-Jun-20,7-Jul-20,0,0,0,0,0,0,1,0
+381,Site 381,Africa,Morroco,3811381,Off Study,Inactive,18-Apr-20,29-Apr-20,1,0,0,1,1,0,0,0
+388,Site 388,Africa,Tanzania,3881388,Off Study,Inactive,26-May-22,10-Jun-22,1,0,0,1,0,0,0,0
+404,Site 404,Central America,Panama,4041404,Off Study,Inactive,28-Jul-22,5-Aug-22,0,0,1,1,1,0,0,0
+429,Site 429,Central America,Guatemala,4291429,Screen Failed,Inactive,10-Jan-23,26-Jan-23,0,0,0,0,0,0,1,0
+445,Site 445,Europe,Russia,4451445,Screen Failed,Inactive,9-Nov-21,4-Dec-21,0,0,0,0,0,0,1,0
+447,Site 447,Europe,Poland,4471447,Off Study,Inactive,10-Oct-20,7-Nov-20,0,1,1,0,0,0,0,0
+479,Site 479,Asia,Uzbekistan,4791479,Screen Failed,Inactive,21-Feb-22,3-Mar-22,0,0,0,0,0,1,0,0
+496,Site 496,Asia,Philippines,4961496,Screen Failed,Inactive,3-Mar-21,26-Mar-21,0,0,0,0,0,1,0,0
