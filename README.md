@@ -27,20 +27,31 @@ This interactive tool facilitates efficient tracking of:
 By centralizing critical data review functions into a single platform, the dashboard ensures **data integrity**, promotes **protocol compliance**, and enhances **operational efficiency throughout the lifecycle of a clinical study**.
 
 ## Features
-Real-Time Data Visualization:
-Interactive charts and tables to quickly analyze study performance and compliance.
 
--Patient Tracking & Enrollment Status:
-View trial participants' screening, enrollment, treatment, and follow-up progress across different regions.
+- **Holistic View of Study Status**  
+  Provides a comprehensive, study-wide perspective on participant progress, data quality, and site performance across all regions and trial phases.
 
--Query Management Overview:
-Monitor open, answered, and closed queries to track data resolution progress.
+- **Downloadable Data Visuals**  
+  Users can download or export datasets from each visual or table, enabling offline review, documentation, and reporting.
 
--Data Cleaning & Readiness for Lock:
-Identify subjects ready for database lock, subjects with missing forms, and unresolved data discrepancies.
+- **Interactive and Real-Time Insights**  
+  Visuals automatically update with the latest uploaded data, allowing stakeholders to make informed decisions quickly and efficiently.
 
--SAE & Third-Party Vendor Data Reconciliation:
-Ensure consistency between safety reports, vendor data, and electronic data capture (EDC) records.
+- **Dynamic Query Management**  
+  Tracks the status of open, answered, and closed queries to support timely and complete resolution of data issues. Provides insights into site response times, identifies top recurring queries, highlights aging 
+  or overdue queries, and displays query distribution across sites and subjects. Also includes metrics for the number of active/open queries to help prioritize data cleaning efforts.
+  
+- **CRF Completion and Data Entry Tracking**  
+  Monitors the status of case report forms (CRFs), highlighting missing, incomplete, or unverified entries.
+
+- **SAE and Vendor Reconciliation**  
+  Verifies consistency between Serious Adverse Events (SAEs) in EDC and Safety team  to ensure regulatory compliance and data integrity.
+
+- **User-Friendly Navigation**  
+  Intuitive sidebar navigation and section-based layout make it easy to explore different aspects of the clinical trial.
+
+- **Supports Protocol Compliance and Database Lock Readiness**  
+  Helps identify subjects ready for lock and sites needing further attention, improving trial close-out planning.
 
 
 
