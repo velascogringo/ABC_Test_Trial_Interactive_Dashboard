@@ -55,7 +55,7 @@ By centralizing critical data review functions into a single platform, the dashb
 
 
 
-## Technologies Used
+## Tech Stack
 - Python: Programming language used for data manipulation, analysis, and visualization.
 
 - Streamlit: Web application framework used for building interactive data dashboards.
