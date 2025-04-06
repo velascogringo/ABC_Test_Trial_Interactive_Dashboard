@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [About](#about)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Tech Stack](#tech-stack)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
