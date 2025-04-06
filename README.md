@@ -2,23 +2,34 @@
 
 ## Table of Contents
 
-- [About](#about)
 - [Introduction](#introduction)
+- [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
+## Introduction 
+This repository contains the source code for ABC Test Trial Interactive Dashboard built with Streamlit. The application provides an interactive, real-time overview of clinical trial performance metrics, allowing users to monitor trial participant status, manage and resolve data queries, Track safety and SAE (Serious Adverse Events) data, Eevaluate CRF (Case Report Form) data entry status & assess subject level data cleaning progress.
+
+📌 DISCLAIMER: The data used in this dashboard is manually generated or anonymized and does NOT represent actual clinical trial data. This dashboard was created solely for educational and demonstration purposes.
+
 ## About
-This repository contains the source code for a Clinical Trial Data Monitoring Dashboard built with Streamlit. The application provides an interactive, real-time overview of clinical trial performance metrics, allowing users to track patient progress, data discrepancies, and query resolution efficiency across multiple trial sites.
+The **ABC Test Trial Interactive Dashboard** is designed to support sponsors, clinical research associates (CRAs), data managers, and trial coordinators in gaining real-time insights into the quality, completeness, and integrity of clinical trial data. 
 
-📌 DISCLAIMER: The data used in this dashboard is manually generated or anonymized and does not represent actual clinical trial data. This dashboard was created                  solely for educational and demonstration purposes.
+This interactive tool facilitates efficient tracking of:
+- **Participant progress and status**
+- **Case Report Form (CRF) completion**
+- **Query management and resolution**
+- **Serious Adverse Event (SAE) reconciliation**
+- **Data cleaning activities**
 
-## Introduction
-The Clinical Trial Data Monitoring Dashboard is designed to help clinical research associates (CRAs), data managers, and trial coordinators gain insights into trial data integrity, completeness, and quality. The dashboard enables efficient tracking of data cleaning status, case report form (CRF) completion, query management, and serious adverse event (SAE) reconciliation to ensure compliance with regulatory requirements.
-
+By centralizing critical data review functions into a single platform, the dashboard ensures **data integrity**, promotes **protocol compliance**, and enhances **operational efficiency throughout the lifecycle of a clinical study**.
 
 ## Features
+Real-Time Data Visualization:
+Interactive charts and tables to quickly analyze study performance and compliance.
+
 -Patient Tracking & Enrollment Status:
 View trial participants' screening, enrollment, treatment, and follow-up progress across different regions.
 
@@ -31,8 +42,7 @@ Identify subjects ready for database lock, subjects with missing forms, and unre
 -SAE & Third-Party Vendor Data Reconciliation:
 Ensure consistency between safety reports, vendor data, and electronic data capture (EDC) records.
 
-Real-Time Data Visualization:
-Interactive charts and tables to quickly analyze study performance and compliance.
+
 
 ## Technologies Used
 - Python: Programming language used for data manipulation, analysis, and visualization.
@@ -54,7 +64,7 @@ To access the ABC Test Trial Interactive Dashboard application, simply visit the
 
 https://abc-test-trial-interactive-dashboard.streamlit.app/
 
-Note: If the application has not been used for a while, it may go to sleep. If prompted to wake the application, please do so.
+Note: If the application has not been used for a while, it may go to sleep. If prompted to wake the application, please do so kindly wait for the app to load completely.
 
 ## Contributing
 
