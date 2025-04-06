@@ -10,7 +10,7 @@
 - [Contributing](#contributing)
 
 ## Introduction 
-This repository contains the source code for ABC Test Trial Interactive Dashboard built with Streamlit. The application provides an interactive, real-time overview of clinical trial performance metrics, allowing users to monitor trial participant status, manage and resolve data queries, Track safety and SAE (Serious Adverse Events) data, evaluate CRF (Case Report Form) data entry status & assess subject level data cleaning progress.
+This repository contains the source code for ABC Test Trial Interactive Dashboard built with Streamlit. The application provides an interactive, real-time overview of clinical trial performance metrics, allowing users to monitor trial participant status, manage and resolve data queries, track safety and SAE (Serious Adverse Events) data, evaluate CRF (Case Report Form) data entry status & assess subject level data cleaning progress.
 
 📌 DISCLAIMER: The data used in this dashboard is manually generated or anonymized and does NOT represent actual clinical trial data. This dashboard was created solely for educational and demonstration purposes.
 
