@@ -1,50 +1,51 @@
-﻿Site_Number,Institution,Region,Country,Subject ID Number,Subject_Current_Status,Active/Inactive,Age at Informed Consent,Gender,Race,Original Informed Consent Date,Screening Date,Enrollment_Date,Treatment Discontinuation Date
-132,Site 132,South America,Brazil,1321132,On Treatment,Active,55,Male,Hispanic or Latino,27-Dec-21,24-Jan-22,9-Feb-22,
-168,Site 168,Europe,United Kingdom,1681168,In Screening,Active,62,Male,White,23-Sep-22,6-Oct-22,4-Nov-22,
-183,Site 183,Europe,France,1831183,In Follow Up,Active,65,Male,White,25-Nov-22,24-Dec-22,7-Jan-23,
-195,Site 195,Europe,Spain,1951195,In Screening,Active,29,Female,White,3-Oct-23,23-Oct-23,24-Oct-23,
-237,Site 237,Europe,Netherlands,2371237,In Follow Up,Active,41,Female,White,29-May-24,28-Jun-24,13-Jul-23,
-241,Site 241,Europe,Sweden,2411241,In Follow Up,Active,42,Male,White,16-Apr-23,12-May-23,19-May-23,
-256,Site 256,Europe,Switzerland,2561256,In Screening,Active,28,Female,White,10-May-22,29-May-22,30-May-22,
-267,Site 267,Asia,Japan,2671267,In Follow Up,Active,32,Female,Asian,23-Dec-23,24-Dec-23,2-Jan-23,
-285,Site 285,Asia,India,2851285,In Screening,Active,60,Male,Asian,12-Oct-24,16-Oct-24,27-Oct-23,
-293,Site 293,Asia,Singapore,2931293,In Screening,Active,48,Male,Asian,17-May-20,21-May-20,16-Jun-20,
-298,Site 298,Asia,Saudi Arabia,2981298,In Follow Up,Active,26,Female,Asian,7-Sep-23,9-Sep-23,8-Oct-23,
-300,Site 301,Asia,United Arab Emirates,3011301,In Screening,Active,25,Male,Asian,4-Mar-21,13-Mar-21,27-Mar-21,
-301,Site 301,Asia,Israel,3011301,In Screening,Active,45,Male,Asian,13-Jan-21,26-Jan-21,18-Feb-21,
-306,Site 306,Asia,Turkey,3061306,In Screening,Active,29,Female,Asian,12-Apr-21,23-Apr-21,13-May-21,
-347,Site 347,Africa,Ethiopia,3471347,In Follow Up,Active,43,Male,Black or African American,4-Feb-22,8-Feb-22,21-Feb-22,
-357,Site 357,Oceania,Australia,3571357,In Screening,Active,59,Female,Native Hawaiian or Other Pacific Islander,23-May-24,30-May-24,15-Jun-23,
-374,Site 374,Africa,Ghana ,3741374,In Follow Up,Active,61,Male,Black or African American,23-Jun-24,12-Jul-24,3-Aug-23,
-391,Site 391,Central America,Costa Rica,3911391,On Treatment,Active,61,Female,Hispanic or Latino,23-Aug-21,5-Sep-21,2-Oct-21,
-452,Site 452,Europe,Ukraine,4521452,In Follow Up,Active,40,Female,White,11-Jul-22,10-Aug-22,15-Aug-22,
-460,Site 460,Europe,Hungary,4601460,In Follow Up,Active,34,Female,White,25-Sep-21,2-Oct-21,10-Oct-21,
-469,Site 469,Asia,Kazakhstan,4691469,In Follow Up,Active,54,Male,Asian,24-Jun-20,16-Jul-20,19-Jul-20,
-488,Site 488,Asia,Bangladesh,4881488,On Treatment,Active,40,Male,Asian,6-Nov-20,22-Nov-20,10-Dec-20,
-492,Site 492,Asia,Pakistan,4921492,In Screening,Active,62,Female,Asian,1-Jan-24,14-Jan-24,16-Jan-23,
-107,Site 107,North America,United States,1071107,Off Study,Inactive,52,Female,White,10-Mar-21,8-Apr-21,27-Apr-21,25-May-21
-124,Site 124,North America,Canada,1241124,Off Study,Inactive,41,Male,White,1-Nov-24,9-Nov-24,2-Dec-23,4-Dec-23
-154,Site 154,South America,Argentina,1541154,Screen Failed,Inactive,28,Female,Hispanic or Latino,5-Nov-20,27-Nov-20,3-Dec-20,15-Dec-20
-156,Site 156,South America,Chile,1561156,Off Study,Inactive,62,Male,Hispanic or Latino,6-Apr-20,29-Apr-20,6-May-20,7-May-20
-158,Site 158,South America,Colombia,1581158,Off Study,Inactive,30,Male,Hispanic or Latino,21-Sep-24,27-Sep-24,3-Oct-23,5-Oct-23
-178,Site 178,Europe,Germany,1781178,Off Study,Inactive,37,Male,White,25-Jan-20,24-Feb-20,19-Mar-20,20-Mar-20
-231,Site 231,Europe,Italy,2311231,Off Study,Inactive,57,Male,White,18-Mar-21,3-Apr-21,11-Apr-21,19-Apr-21
-255,Site 255,Europe,Norway,2551255,Screen Failed,Inactive,57,Female,White,12-Sep-20,3-Oct-20,17-Oct-20,15-Nov-20
-262,Site 262,Asia,China,2621262,Screen Failed,Inactive,41,Female,Asian,10-Mar-20,16-Mar-20,17-Mar-20,28-Mar-20
-280,Site 280,Asia,South Korea,2801280,Screen Failed,Inactive,28,Female,Asian,31-Mar-23,27-Apr-23,10-May-23,9-Jun-23
-294,Site 294,Asia,Malaysia,2941294,Off Study,Inactive,32,Male,Asian,24-Jun-23,26-Jun-23,20-Jul-23,6-Aug-23
-295,Site 295,Asia,Thailand,2951295,Screen Failed,Inactive,28,Female,Asian,27-Jan-20,30-Jan-20,28-Feb-20,22-Mar-20
-297,Site 298,Asia,Vietnam,2981298,Screen Failed,Inactive,32,Male,Asian,28-Jul-21,24-Aug-21,4-Sep-21,14-Sep-21
-322,Site 322,Africa,South Africa,3221322,Screen Failed,Inactive,65,Male,Black or African American,22-Feb-20,1-Mar-20,24-Mar-20,22-Apr-20
-323,Site 323,Africa,Egypt,3231323,Off Study,Inactive,44,Female,Black or African American,16-Jun-23,16-Jul-23,9-Aug-23,1-Sep-23
-334,Site 334,Africa,Nigeria,3341334,Off Study,Inactive,37,Male,Black or African American,15-Feb-20,5-Mar-20,20-Mar-20,18-Apr-20
-344,Site 344,Africa,Kenya,3441344,Screen Failed,Inactive,40,Female,Black or African American,7-Sep-21,19-Sep-21,13-Oct-21,4-Nov-21
-366,Site 366,Oceania,New Zealand,3661366,Off Study,Inactive,25,Female,Native Hawaiian or Other Pacific Islander,22-May-20,30-May-20,24-Jun-20,7-Jul-20
-381,Site 381,Africa,Morroco,3811381,Off Study,Inactive,33,Male,Black or African American,16-Mar-20,27-Mar-20,18-Apr-20,29-Apr-20
-388,Site 388,Africa,Tanzania,3881388,Off Study,Inactive,27,Female,Black or African American,11-Apr-22,5-May-22,26-May-22,10-Jun-22
-404,Site 404,Central America,Panama,4041404,Off Study,Inactive,35,Male,Hispanic or Latino,5-Jul-22,11-Jul-22,28-Jul-22,5-Aug-22
-429,Site 429,Central America,Guatemala,4291429,Screen Failed,Inactive,42,Male,Hispanic or Latino,7-Dec-22,5-Jan-23,10-Jan-23,26-Jan-23
-445,Site 445,Europe,Russia,4451445,Screen Failed,Inactive,48,Female,White,16-Oct-21,3-Nov-21,9-Nov-21,4-Dec-21
-447,Site 447,Europe,Poland,4471447,Off Study,Inactive,62,Male,White,31-Aug-20,28-Sep-20,10-Oct-20,7-Nov-20
-479,Site 479,Asia,Uzbekistan,4791479,Screen Failed,Inactive,39,Female,Asian,24-Jan-22,29-Jan-22,21-Feb-22,3-Mar-22
-496,Site 496,Asia,Philippines,4961496,Screen Failed,Inactive,38,Male,Asian,2-Feb-21,14-Feb-21,3-Mar-21,26-Mar-21
+﻿Site_Number,Institution,Region,Country,Subject ID Number,Subject_Current_Status,Active/Inactive,Age at Informed Consent,Gender,Race,Enrollment_Date,Treatment Discontinuation Date
+131,Site 131,North America,Mexico,1311131,On Treatment,Active,55,Female,White,18-Jun-23,
+132,Site 132,South America,Brazil,1321132,On Treatment,Active,55,Male,Hispanic or Latino,9-Feb-22,
+168,Site 168,Europe,United Kingdom,1681168,In Screening,Active,62,Male,White,4-Nov-22,
+183,Site 183,Europe,France,1831183,In Follow Up,Active,65,Male,White,7-Jan-23,
+195,Site 195,Europe,Spain,1951195,In Screening,Active,29,Female,White,24-Oct-23,
+237,Site 237,Europe,Netherlands,2371237,In Follow Up,Active,41,Female,White,13-Jul-23,
+241,Site 241,Europe,Sweden,2411241,In Follow Up,Active,42,Male,White,19-May-23,
+256,Site 256,Europe,Switzerland,2561256,In Screening,Active,28,Female,White,30-May-22,
+267,Site 267,Asia,Japan,2671267,In Follow Up,Active,32,Female,Asian,2-Jan-23,
+285,Site 285,Asia,India,2851285,In Screening,Active,60,Male,Asian,27-Oct-23,
+293,Site 293,Asia,Singapore,2931293,In Screening,Active,48,Male,Asian,16-Jun-20,
+298,Site 298,Asia,Saudi Arabia,2981298,In Follow Up,Active,26,Female,Asian,8-Oct-23,
+300,Site 301,Asia,United Arab Emirates,3011301,In Screening,Active,25,Male,Asian,27-Mar-21,
+301,Site 301,Asia,Israel,3011301,In Screening,Active,45,Male,Asian,18-Feb-21,
+306,Site 306,Asia,Turkey,3061306,In Screening,Active,29,Female,Asian,13-May-21,
+347,Site 347,Africa,Ethiopia,3471347,In Follow Up,Active,43,Male,Black or African American,21-Feb-22,
+357,Site 357,Oceania,Australia,3571357,In Screening,Active,59,Female,Native Hawaiian or Other Pacific Islander,15-Jun-23,
+374,Site 374,Africa,Ghana ,3741374,In Follow Up,Active,61,Male,Black or African American,3-Aug-23,
+391,Site 391,Central America,Costa Rica,3911391,On Treatment,Active,61,Female,Hispanic or Latino,2-Oct-21,
+452,Site 452,Europe,Ukraine,4521452,In Follow Up,Active,40,Female,White,15-Aug-22,
+460,Site 460,Europe,Hungary,4601460,In Follow Up,Active,34,Female,White,10-Oct-21,
+469,Site 469,Asia,Kazakhstan,4691469,In Follow Up,Active,54,Male,Asian,19-Jul-20,
+488,Site 488,Asia,Bangladesh,4881488,On Treatment,Active,40,Male,Asian,10-Dec-20,
+492,Site 492,Asia,Pakistan,4921492,In Screening,Active,62,Female,Asian,16-Jan-23,
+107,Site 107,North America,United States,1071107,Off Study,Inactive,52,Female,White,27-Apr-21,25-May-21
+124,Site 124,North America,Canada,1241124,Off Study,Inactive,41,Male,White,2-Dec-23,4-Dec-23
+154,Site 154,South America,Argentina,1541154,Screen Failed,Inactive,28,Female,Hispanic or Latino,3-Dec-20,15-Dec-20
+156,Site 156,South America,Chile,1561156,Off Study,Inactive,62,Male,Hispanic or Latino,6-May-20,7-May-20
+158,Site 158,South America,Colombia,1581158,Off Study,Inactive,30,Male,Hispanic or Latino,3-Oct-23,5-Oct-23
+178,Site 178,Europe,Germany,1781178,Off Study,Inactive,37,Male,White,19-Mar-20,20-Mar-20
+231,Site 231,Europe,Italy,2311231,Off Study,Inactive,57,Male,White,11-Apr-21,19-Apr-21
+255,Site 255,Europe,Norway,2551255,Screen Failed,Inactive,57,Female,White,17-Oct-20,15-Nov-20
+262,Site 262,Asia,China,2621262,Screen Failed,Inactive,41,Female,Asian,17-Mar-20,28-Mar-20
+280,Site 280,Asia,South Korea,2801280,Screen Failed,Inactive,28,Female,Asian,10-May-23,9-Jun-23
+294,Site 294,Asia,Malaysia,2941294,Off Study,Inactive,32,Male,Asian,20-Jul-23,6-Aug-23
+295,Site 295,Asia,Thailand,2951295,Screen Failed,Inactive,28,Female,Asian,28-Feb-20,22-Mar-20
+297,Site 298,Asia,Vietnam,2981298,Screen Failed,Inactive,32,Male,Asian,4-Sep-21,14-Sep-21
+322,Site 322,Africa,South Africa,3221322,Screen Failed,Inactive,65,Male,Black or African American,24-Mar-20,22-Apr-20
+323,Site 323,Africa,Egypt,3231323,Off Study,Inactive,44,Female,Black or African American,9-Aug-23,1-Sep-23
+334,Site 334,Africa,Nigeria,3341334,Off Study,Inactive,37,Male,Black or African American,20-Mar-20,18-Apr-20
+344,Site 344,Africa,Kenya,3441344,Screen Failed,Inactive,40,Female,Black or African American,13-Oct-21,4-Nov-21
+366,Site 366,Oceania,New Zealand,3661366,Off Study,Inactive,25,Female,Native Hawaiian or Other Pacific Islander,24-Jun-20,7-Jul-20
+381,Site 381,Africa,Morroco,3811381,Off Study,Inactive,33,Male,Black or African American,18-Apr-20,29-Apr-20
+388,Site 388,Africa,Tanzania,3881388,Off Study,Inactive,27,Female,Black or African American,26-May-22,10-Jun-22
+404,Site 404,Central America,Panama,4041404,Off Study,Inactive,35,Male,Hispanic or Latino,28-Jul-22,5-Aug-22
+429,Site 429,Central America,Guatemala,4291429,Screen Failed,Inactive,42,Male,Hispanic or Latino,10-Jan-23,26-Jan-23
+445,Site 445,Europe,Russia,4451445,Screen Failed,Inactive,48,Female,White,9-Nov-21,4-Dec-21
+447,Site 447,Europe,Poland,4471447,Off Study,Inactive,62,Male,White,10-Oct-20,7-Nov-20
+479,Site 479,Asia,Uzbekistan,4791479,Screen Failed,Inactive,39,Female,Asian,21-Feb-22,3-Mar-22
+496,Site 496,Asia,Philippines,4961496,Screen Failed,Inactive,38,Male,Asian,3-Mar-21,26-Mar-21
