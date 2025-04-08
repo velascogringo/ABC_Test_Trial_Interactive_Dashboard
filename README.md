@@ -75,7 +75,7 @@ To access the ABC Test Trial Interactive Dashboard application, simply visit the
 
 https://abc-test-trial-interactive-dashboard.streamlit.app/
 
-Note: If the application has not been used for a while, it may go to sleep. If prompted to wake the application, please do so kindly wait for the app to load completely.
+**Note: If the application has not been used for a while, it may go to sleep. If prompted to wake the application, please do so kindly wait for the app to load completely.**
 
 ## Contributing
 
