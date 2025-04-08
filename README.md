@@ -77,6 +77,16 @@ https://abc-test-trial-interactive-dashboard.streamlit.app/
 
 **Note: If the application has not been used for a while, it may go to sleep. If prompted to wake the application, please do so kindly wait for the app to load completely.**
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute, please feel free to fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed modifications.
+## License
+
+This project is licensed under a **proprietary license** held by a private individual.  
+All rights reserved by **Gringo R. Velasco**.
+
+The source code and its contents are proprietary and confidential.  
+**Unauthorized use, reproduction, modification, or distribution is strictly prohibited** without the explicit written permission of the author.
+
+If you are interested in collaboration or usage rights, please contact:
+
+📩 **velascogringo08@gmail.com**
+
