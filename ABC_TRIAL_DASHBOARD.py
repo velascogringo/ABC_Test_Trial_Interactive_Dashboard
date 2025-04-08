@@ -1,3 +1,8 @@
+# Copyright (c) 2025 [Gringo R. Velasco]
+# All rights reserved.
+# This code is proprietary and confidential.
+# Unauthorized use is prohibited.
+
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
@@ -1672,4 +1677,9 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+# Copyright (c) 2025 [Gringo R. Velasco]
+# All rights reserved.
+# This code is proprietary and confidential.
+# Unauthorized use is prohibited.
        
