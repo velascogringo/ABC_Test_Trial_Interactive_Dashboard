@@ -24,7 +24,7 @@ This interactive tool facilitates efficient tracking of:
 - **Serious Adverse Event (SAE) reconciliation**
 - **Data cleaning activities**
 
-By centralizing critical data review functions into a single platform, the dashboard ensures **data integrity**, promotes **protocol compliance**, and enhances **operational efficiency throughout the lifecycle of a clinical study**.
+By **centralizing critical data review functions into a single platform**, the dashboard ensures **data integrity**, promotes **protocol compliance**, and enhances **operational efficiency throughout the lifecycle of a clinical study**.
 
 ## Features
 
